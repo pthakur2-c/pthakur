@@ -1,1 +1,1 @@
-# pthakur.com
+# pthakur
